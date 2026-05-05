@@ -1,0 +1,110 @@
+(footprint "TS-1010GS-BR09526"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "Button**"
+		(at 0.675 -1.175 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "400f0671-b859-46ce-8a24-13d256ddf5bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "TS-1010GS-BR09526"
+		(at 0 -5.65 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e8a9b8ee-1127-4472-aaca-397af9b149bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee221524-d2d2-48c4-a13e-a59f0fd0ef7c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f9a471b-dad7-48ba-91f5-a6f8084f93fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_text user "${REFERENCE}"
+		(at -0.05 3.475 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "acc0f7ed-972a-4ac6-a554-5d7c75e00765")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -4.5 -3.5)
+		(size 2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "8dff9371-bcaa-4665-a429-b81d7a4dd886")
+	)
+	(pad "2" smd roundrect
+		(at 3.5 -3.5)
+		(size 2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "b9eb1e1b-0698-4873-8886-8376f40e3304")
+	)
+	(pad "3" smd roundrect
+		(at -4.5 1)
+		(size 2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "e7b4635c-243c-4ce2-9051-8f888ce5c282")
+	)
+	(pad "4" smd roundrect
+		(at 3.5 1)
+		(size 2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "744f6d3a-6676-4050-8a01-b3edd8cd5dfe")
+	)
+	(embedded_fonts no)
+	(model "/Users/christianjohnsonl/Downloads/Part Studio 37.step"
+		(offset
+			(xyz -0.5 1.2 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
