@@ -12,8 +12,7 @@ against manufacturer datasheets.
 
 | Part Number | Manufacturer | Package | Symbol | Footprint | 3D Model | Tested on PCB |
 |-------------|--------------|---------|--------|-----------|----------|---------------|
-| PCF2123 | NXP | SO-14 | ✅ | ✅ | ✅ | ✅ |
-| AO3401A | Alpha & Omega | SOT-23 | ✅ | ✅ | ✅ | ✅ |
+| CR2032-BS-6-1 | Q&J  | 2 Pin SMT | ✅ | ✅ | ✅ | ✅ |
 
 ---
 
