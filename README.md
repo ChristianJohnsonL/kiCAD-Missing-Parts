@@ -17,7 +17,7 @@ against manufacturer datasheets.
 | HY09-4TBE | HYDZ | DIP | ✅ | ✅ | ✅ | ✅ | Through-Hole DIP Buzzer |
 | TS-1010GS-BR09526 | XUNPU | SMD-4P,6.2x6.2mm | ✅ | ✅ | ✅ | ✅ | IP67 Tactile Switches|
 | CY75-68UH | SHOU HAN | SMD,7.8x7mm | ✅ | ✅ | ✅ | ✅ | 68uH Inductor|
-| LCM0820A2908F | LEADER | ✅ | ✅ | ✅ | ✅ | Adhesive Mount | 15000rpm 3V 7mm 80mA DC Vibration Motor |
+| LCM0820A2908F | LEADER | Adhesive Mount | ✅ | ✅ | ✅ | ✅ | 15000rpm 3V 7mm 80mA DC Vibration Motor |
 
 
 ---
