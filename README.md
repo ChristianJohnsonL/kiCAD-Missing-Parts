@@ -16,7 +16,7 @@ against manufacturer datasheets.
 | F1015WR-S-08PNLNG1T01L | HR(Joint Tech Elec) | SMD,P=1mm,Surface Mount，Right Angle | ✅ | ✅ | ✅ | ✅ | 8_Pin_FFC |
 | HY09-4TBE | HYDZ | DIP | ✅ | ✅ | ✅ | ✅ | Through-Hole DIP Buzzer |
 | TS-1010GS-BR09526 | XUNPU | SMD-4P,6.2x6.2mm | ✅ | ✅ | ✅ | ✅ | IP67 Tactile Switches|
-| CY75-68UH | SHOU HAN | SMD,7.8x7mm ✅ | ✅ | ✅ | ✅ | 68uH Inductor|
+| CY75-68UH | SHOU HAN | SMD,7.8x7mm | ✅ | ✅ | ✅ | ✅ | 68uH Inductor|
 
 
 ---
