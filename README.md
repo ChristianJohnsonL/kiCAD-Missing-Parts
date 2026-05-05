@@ -14,7 +14,8 @@ against manufacturer datasheets.
 |-------------|--------------|---------|--------|-----------|----------|---------------|-------------|
 | CR2032-BS-6-1 | Q&J  | 2 Pin SMT | ✅ | ✅ | ✅ | ✅ | CR2032 Battery Holder |
 | F1015WR-S-08PNLNG1T01L | HR(Joint Tech Elec) | SMD,P=1mm,Surface Mount，Right Angle | ✅ | ✅ | ✅ | ✅ | 8_Pin_FFC |
-|
+| HY09-4TBE | HYDZ | DIP | ✅ | ✅ | ✅ | ✅ | Through-Hole DIP Buzzer|
+
 
 ---
 
