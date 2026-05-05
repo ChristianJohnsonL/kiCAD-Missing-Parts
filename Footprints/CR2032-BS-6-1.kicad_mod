@@ -1,0 +1,230 @@
+(footprint "CR2032-BS-6-1"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ef479f60-3986-43b1-bcf9-74b245b83efd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "CR2032-BS-6-1"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7bd64441-c559-439a-b79c-93da5deb25af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1a1cdb10-ae8b-4183-ba4d-c07fcb910190")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6dc1faa8-d620-4b7f-9add-63282a417227")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -16.973263 -6.519647)
+		(end -16.973263 1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "19a337be-19ec-4e17-9210-5e48802b0313")
+	)
+	(fp_line
+		(start -16.973263 -6.519647)
+		(end -14 -6.519647)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "be05aece-35ce-4024-8a87-91112e4542fc")
+	)
+	(fp_line
+		(start -16.973263 1)
+		(end -14.026737 1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d570113f-51c3-460b-b16f-c2ad1bc59db7")
+	)
+	(fp_line
+		(start -14.026737 1)
+		(end -14.026737 6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9e31f435-f4be-493f-9acf-550638306d3a")
+	)
+	(fp_line
+		(start -14.026737 6)
+		(end 8.975 6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f140b27e-9909-4118-b558-91d1ff480f2e")
+	)
+	(fp_line
+		(start -14 -10.665608)
+		(end -14 -6.519647)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e592c8a4-5279-4c4c-8935-7a21d54656c2")
+	)
+	(fp_line
+		(start 5.745418 -10.665608)
+		(end 8.937763 -7.473263)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "973ae834-fcc9-4247-8ea7-feb865bd57b1")
+	)
+	(fp_line
+		(start 5.75 -10.665608)
+		(end -14 -10.665608)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1b3cd845-7d04-4f88-b981-7861fcddcff3")
+	)
+	(fp_line
+		(start 8.937763 -7)
+		(end 8.937763 -7.475)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "cd2cfe0d-fbee-4529-89a1-65d7c593fbb6")
+	)
+	(fp_line
+		(start 8.975 6)
+		(end 8.975 1.019647)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1356c1b1-eb28-4a02-a5bc-a9e68f5f3259")
+	)
+	(fp_line
+		(start 11.884289 -7)
+		(end 8.937763 -7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e48314c0-6554-46ff-8b43-9f225a49fdda")
+	)
+	(fp_line
+		(start 11.884289 1.019647)
+		(end 8.975 1.019647)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "fd0c7bc9-0c18-452d-8b4a-88bdb67a9256")
+	)
+	(fp_line
+		(start 11.884289 1.019647)
+		(end 11.884289 -7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "10ea306e-d497-44d8-a244-0cb323b8a675")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a6b53875-15ee-4d36-8891-b41ecca0a050")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 12 -3)
+		(size 3 4.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "848bd95a-9deb-499a-a786-acf13afc03a0")
+	)
+	(pad "2" smd roundrect
+		(at -17 -3)
+		(size 3 4.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "5a048738-0ec7-4f7d-a95e-95cc1d16b356")
+	)
+	(group ""
+		(uuid "38aa6597-015b-4284-b6a3-0f1988277d8b")
+		(members "5a048738-0ec7-4f7d-a95e-95cc1d16b356" "848bd95a-9deb-499a-a786-acf13afc03a0")
+	)
+	(embedded_fonts no)
+	(model "/Users/christianjohnsonl/Downloads/Part Studio 30.step"
+		(offset
+			(xyz -2.5 3 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
